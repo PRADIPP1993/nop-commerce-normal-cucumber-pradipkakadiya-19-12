@@ -1,0 +1,10 @@
+2022-12-21 12:12:448 INFO  HomePage :65 - Mouse Hovering to Desktop and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Desktops'
+2022-12-21 12:12:141 INFO  HomePage :41 - Clicking on currency dropdown
+2022-12-21 12:12:119 INFO  HomePage :65 - Mouse Hovering to Desktop and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Desktops'
+2022-12-21 12:12:735 INFO  HomePage :41 - Clicking on currency dropdown
+2022-12-21 12:12:867 INFO  HomePage :65 - Mouse Hovering to Desktop and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Desktops'
+2022-12-21 12:12:772 INFO  DesktopPage :33 - Navigate to desktop error message
+2022-12-21 12:12:811 INFO  HomePage :70 - Mouse Hovering to LaptopsNotebooks and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Laptops & Notebooks'
+2022-12-21 12:12:595 INFO  HomePage :75 - Mouse Hovering to Components and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Components'
+2022-12-21 12:12:863 INFO  HomePage :70 - Mouse Hovering to LaptopsNotebooks and Clicking on it: Proxy element for: DefaultElementLocator 'By.linkText: Laptops & Notebooks'
+2022-12-21 12:12:706 INFO  HomePage :41 - Clicking on currency dropdown
